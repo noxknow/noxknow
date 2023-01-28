@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chiwang%20%20Github!&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Chiwang%20%20Github!&fontSize=45"/>
 
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
