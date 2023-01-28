@@ -13,5 +13,5 @@
 <br/>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&line_height=24&hide_rank=true&&layout=compact&theme=kacho_ga)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
