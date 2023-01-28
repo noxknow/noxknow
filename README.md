@@ -8,7 +8,7 @@
 ### Skills
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=dark"><br>
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)
