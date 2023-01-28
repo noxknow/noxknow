@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 
 ### Skills
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={noxknow})](https://solved.ac/{chris2769})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={chris2769})](https://solved.ac/{chris2769})
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact"><br><br>
 
 ### Stats
