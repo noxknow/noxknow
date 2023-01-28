@@ -7,5 +7,5 @@
 
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknowlayout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)
