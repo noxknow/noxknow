@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chiwang%20Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chiwang%20Github!&fontSize=45" />
 
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 <br/>
 
 ## <p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
 
 <br/>
 
