@@ -14,4 +14,4 @@
 ### Stats
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
