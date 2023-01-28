@@ -1,4 +1,4 @@
-## Tech Stack
+## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -12,6 +12,6 @@
 
 <br/>
 
-## Stats
+## 🎨 Stats 🎨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
