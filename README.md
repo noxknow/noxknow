@@ -20,4 +20,3 @@
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
 </p>
 
-theme=kacho_ga
