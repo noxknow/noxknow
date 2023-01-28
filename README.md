@@ -18,5 +18,5 @@
 <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+</p>
 
