@@ -7,6 +7,7 @@
 
 ### Skills
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact"><br><br>
 
 ### Stats
