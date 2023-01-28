@@ -16,7 +16,7 @@
 
 ## 🛠️ Stats 🛠️
 <p>
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga">
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
+  <img height="170em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga">
+  <img height="170em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
 </p>
 
