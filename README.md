@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chiwang's_github!&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Chiwang's_Github!&fontSize=36"/>
 
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
