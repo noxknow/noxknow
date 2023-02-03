@@ -16,7 +16,9 @@
 
 ## 🛠️ Stats 🛠️
 
-<img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=noxknow&show_icons=true&theme=kacho_ga">
-<img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga">
+<a href="https://github.com/noxknow"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+
+<a href="https://github.com/noxknow"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 
