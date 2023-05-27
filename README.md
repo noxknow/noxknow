@@ -19,7 +19,7 @@
 
 <div style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&include_all_commits=true&theme=kacho_ga&hide_border=true"/>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga&hide_border=true" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=material-palenight&hide_border=true" />
 </div>
 
 
