@@ -1,4 +1,11 @@
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Chiwang's_Github!&fontSize=36"/>
+
+## 🛠️ My Streak 🛠️
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=noxknow&theme=blueberry_duo)](https://github.com/ckyeon)
+
+<br/>
 
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
@@ -21,15 +28,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/noxknow)
 
-<br/>
-
-## 🛠️ Stats 🛠️
-
-<div style="display: flex, height:180px">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=noxknow&show_icons=true&include_all_commits=true&theme=kacho_ga&hide_border=true"/>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxknow&layout=compact&theme=kacho_ga&hide_border=true" />
 </div>
-
 
 
 
