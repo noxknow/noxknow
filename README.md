@@ -23,9 +23,11 @@
 
 <br/>
 
-## <p>🏆 Baekjoon solved rank 🏆</p>
+## <p>🏆 Baekjoon solved rank 🏆</p> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/noxknow)
+
+(left : Python, right : Java)
 
 </div>
 
