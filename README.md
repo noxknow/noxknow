@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chiwang's_%20GitHub&fontSize=45&animation=fadeIn)
 
 ## 🛠️ My Streak 🛠️
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=noxknow&theme=blueberry_duo)](https://github.com/ckyeon)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=noxknow&theme=blueberry_duo)](https://github.com/noxknow)
 
 <br/>
 
