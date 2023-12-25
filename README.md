@@ -1,33 +1,38 @@
 <div align="center">
+  
+<h2> Chiwang Lee's github <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></a> </h2> 
+  
+  Developing services to solve the common challenges of DAILY LIFE. <br>
+  
+</div>
+  
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chiwang's_%20GitHub&fontSize=45&animation=fadeIn)
+## 💬 About me.
+- contact : chris2769@naver.com
+- :tent: 네이버 부스트캠프 웹모바일 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
+- :snowflake: 삼성 청년 SW 아카데미 11기 (24.01.02 ~ )
 
-## 🛠️ My Streak 🛠️
+<br/>
+
+
+
+### 🛠️ My Streak 🛠️
+
+---
+
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=noxknow&theme=blueberry_duo)](https://github.com/noxknow)
 
 <br/>
 
-## 📚 Tech Stack 📚
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
+### <p>🏆 Baekjoon solved rank 🏆</p> 
 
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+[![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769) 
+[![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/noxknow)
 
-<br/>
-
-## <p>🏆 Baekjoon solved rank 🏆</p> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/noxknow)
-
-(left : Python, right : Java)
+**Programming Languages :** **![Python](https://img.shields.io/badge/Python-blue?logo=python)** | **![Java](https://img.shields.io/badge/Java-orange?logo=java)**
 
 </div>
 
