@@ -9,7 +9,8 @@
 </div>
 
 ## 💬 About me.
-- contact : chris2769@naver.com
+- :mailbox_with_mail: contact : chris2769@naver.com
+- :city_sunrise: blog : https://noxknow.tistory.com/
 - :tent: 네이버 부스트캠프 웹모바일 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
 - :snowflake: 삼성 청년 SW 아카데미 11기 (24.01.02 ~ )
 
