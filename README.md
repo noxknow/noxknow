@@ -30,10 +30,10 @@
 
 ---
 
-[![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769) 
 [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/noxknow)
+[![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris2769)](https://solved.ac/chris2769) 
 
-**Programming Languages :** **![Python](https://img.shields.io/badge/Python-blue?logo=python)** | **![Java](https://img.shields.io/badge/Java-orange?logo=java)**
+**Programming Languages :** **![Java](https://img.shields.io/badge/Java-orange?logo=java)** | **![Python](https://img.shields.io/badge/Python-blue?logo=python)**
 
 </div>
 
